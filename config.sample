@@ -1,0 +1,11 @@
+[bot]
+debug = false
+token = 12345ABfeedd2323
+chat_id = 1234567
+
+[db]
+store = data/store.db
+
+[mail_filters]
+new_ticket = New ticket submitted
+modified_ticket = Ticket modified
