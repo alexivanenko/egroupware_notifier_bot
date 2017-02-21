@@ -13,6 +13,7 @@ Installed Telegram Bot: you need bot token and chat ID.
 $ go get github.com/alexivanenko/egroupware_notifier_bot/...
 $ cd egroupware_notifier_bot
 $ cp config.sample config.ini
+$ mkdir data
 $ chmod 0755 data
 ```
 

@@ -10,5 +10,6 @@ _test
 .DS_Store
 .idea
 .idea/*
+data/*
 config.ini
 client_secret.json
