@@ -25,4 +25,4 @@ $ make
 ```
 
 The first time you run the application, it will prompt you to GMail authorize access. Browse to the provided URL in your web browser. Copy the code you're given, paste it into the command-line prompt, and press Enter.
-The application checks GMAil account every 5 minutes.
+The application checks GMail account every 5 minutes.
