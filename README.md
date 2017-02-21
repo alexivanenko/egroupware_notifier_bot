@@ -1,6 +1,6 @@
 # EGroupware Telegram Notifier  
 
-## Simple private application for sending notifications to Telegram chat about EGroupware new/modified tasks in GmMail inbox    
+## Simple private application for sending notifications to Telegram chat about EGroupware new/modified tasks in GMail inbox    
 
 ### Requirements
 
